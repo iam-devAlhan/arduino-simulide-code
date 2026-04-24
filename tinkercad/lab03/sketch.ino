@@ -26,5 +26,5 @@ void loop() {
   delay(greenDelay);
   digitalWrite(led, LOW);
 
-  // Repeat the loop
+  // Repeat the sequence
 }
